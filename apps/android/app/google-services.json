@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852452185088",
+    "firebase_url": "https://mppk-ebea8.firebaseio.com",
+    "project_id": "mppk-ebea8",
+    "storage_bucket": "mppk-ebea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852452185088:android:6db7e82ab326e7bea574e5",
+        "android_client_info": {
+          "package_name": "com.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852452185088-8kfcn36sa6e97s1oagca3hvc2bh2jso6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuqmm6n_MhhUY1v_6C8hUu_CvOQwNHxeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852452185088-8kfcn36sa6e97s1oagca3hvc2bh2jso6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
